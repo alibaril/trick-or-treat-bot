@@ -113,4 +113,4 @@ if ! shopt -oq posix; then
 fi
 
 echo Running at boot
-/home/pi/AIY-projects-python/src/examples/voice/trick_or_treat.py
+/home/pi/trick-or-treat-bot/AIY-projects-python/src/projects/voice/trick_or_treat.py
